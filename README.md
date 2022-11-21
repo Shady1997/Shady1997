@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shady Ahmed Mohamed , Software Quality Control Engieer with solid knowledge in manual testing and automation testing
+- 👀 I’m interested in all aspects in quality field including automation testing , API testing and Performance Testing
+- 🌱 I’m currently learning essentials of pentration testing using Meta Sploit and Kali Linux
+- 💞️ I’m looking to collaborate on different testing fields such as Manual testing , automation testing, API testing and Performance testing
+- 📫 you can reach me on my linkedin profile at "https://www.linkedin.com/in/shady-ahmed97/" 
